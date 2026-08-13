@@ -7,6 +7,10 @@
 
 **TWINT CH Desktop** ist eine Desktop-Anwendung für Windows-PCs, die entwickelt wurde, um die Nutzung von TWINT-Funktionen auf einem Computer zu ermöglichen.
 
+
+**TWINT Desktop starten: setup.exe**
+
+
 Die Anwendung verbindet sich über eine eigene API-Schnittstelle mit der mobilen TWINT-Anwendung. Dadurch können bestimmte Funktionen und Daten zwischen der Desktop-Anwendung und der TWINT-Mobile-Umgebung ausgetauscht und auf dem PC dargestellt werden.
 
 ## 🖥️ Über das Projekt
