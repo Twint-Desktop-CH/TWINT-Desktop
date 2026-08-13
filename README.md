@@ -1,5 +1,6 @@
 # TWINT CH Desktop
-<img width="1117" height="1562" alt="Twint" src="https://github.com/user-attachments/assets/24ecd40e-2efa-4236-8516-9bea7835d344" />
+<img width="512" height="512" alt="teint" src="https://github.com/user-attachments/assets/f52b185c-5d70-4bdf-a428-07ffe6650030" />
+
 
 
 **TWINT CH Desktop** ist eine Desktop-Anwendung für Windows-PCs, die entwickelt wurde, um die Nutzung von TWINT-Funktionen auf einem Computer zu ermöglichen.
